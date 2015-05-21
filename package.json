@@ -1,0 +1,26 @@
+{
+  "name": "ng-complete-table",
+  "version": "0.0.1",
+  "description": "Yet Another Angular Table Directive ",
+  "main": "app.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanyamagrawal/ng-complete-table.git"
+  },
+  "keywords": [
+    "Angular",
+    "Angular",
+    "Table",
+    "Angular",
+    "Grid"
+  ],
+  "author": "Sanyam Agrawal a.k.a Sanyo",
+  "license": "NA",
+  "bugs": {
+    "url": "https://github.com/sanyamagrawal/ng-complete-table/issues"
+  },
+  "homepage": "https://github.com/sanyamagrawal/ng-complete-table"
+}
