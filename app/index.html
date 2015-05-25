@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>NG-Complete Example</title>
-    <script type="text/javascript" src="libs/angular/angular.js"></script>
-    <script type="text/javascript" src="javascript/modules/ng-complete-table/NgCompleteTable.js"></script>
+    <head>
+        <title>NG-Complete Example</title>
+        <link rel="stylesheet" type="text/css" href="libs/foundation/css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="libs/foundation/css/foundation.css">
+        <script type="text/javascript" src="libs/angular/angular.js"></script>
+        <script type="text/javascript" src="libs/angular-ui-router/release/angular-ui-router.js"></script>
+        <script type="text/javascript" src="javascript/modules/ng-complete-table/NgCompleteTable.js"></script>
 
-</head>
-<body ng-app="MyTableExample">
-
-<script type="text/javascript" src="javascript/app.js"></script>
-</body>
+    </head>
+    <body ng-app="MyTableExample">
+        <div ui-view></div>
+        <script type="text/javascript" src="javascript/app.js"></script>
+    </body>
 </html>
